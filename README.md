@@ -36,10 +36,10 @@ You want `VERSION 2`. If it shows 1, run `wsl --set-version Ubuntu-24.04 2`.
 
 > **Heads up (ASUS motherboards):** If `wsl --install` hangs or the required reboot loops, Armoury Crate may be stuck. See [WSL install hangs on ASUS motherboards](#wsl-install-hangs-on-asus-motherboards) in Common issues.
 
-<!--
+
 Screenshot placeholder: successful `wsl -l -v` output showing VERSION 2
 ![WSL version check](assets/screenshots/01-wsl-version-check.png)
--->
+
 
 ## Common issues
 
@@ -57,10 +57,10 @@ Armoury Crate installation blocks the WSL install cycle on some ASUS boards.
 3. Reboot
 4. Re-run `wsl --install -d Ubuntu-24.04`
 
-<!--
+
 Screenshot placeholder: Windows Optional updates screen with ASUS updates listed
 ![Optional updates](assets/screenshots/01-asus-optional-updates.png)
--->
+
 
 **References**
 - [r/ASUS: Armoury Crate installation stuck](https://www.reddit.com/r/ASUS/comments/jqb9ud/solved_armoury_crate_installation_stuck_at/)
