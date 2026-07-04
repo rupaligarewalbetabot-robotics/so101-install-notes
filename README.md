@@ -38,7 +38,9 @@ You want `VERSION 2`. If it shows 1, run `wsl --set-version Ubuntu-24.04 2`.
 
 
 Screenshot placeholder: successful `wsl -l -v` output showing VERSION 2
+<!--
 ![WSL version check](assets/screenshots/01-wsl-version-check.png)
+-->
 
 
 ## Common issues
@@ -59,7 +61,9 @@ Armoury Crate installation blocks the WSL install cycle on some ASUS boards.
 
 
 Screenshot placeholder: Windows Optional updates screen with ASUS updates listed
+<!--
 ![Optional updates](assets/screenshots/01-asus-optional-updates.png)
+-->
 
 
 **References**
